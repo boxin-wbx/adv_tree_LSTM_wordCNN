@@ -1,0 +1,15 @@
+[2018-08-30 04:42:40,586] INFO:__main__:==> Epoch 0, Train 	Loss: 0.05626134359121323	Accuracy: 0.07028
+[2018-08-30 04:42:40,586] INFO:__main__:==> Epoch 0, Dev 	Accuracy: 0.07
+[2018-08-30 04:42:40,586] INFO:__main__:==> Epoch 0, Test 	Accuracy: 0.0696
+[2018-08-30 05:05:56,341] INFO:__main__:==> Epoch 1, Train 	Loss: 0.035211033489704134	Accuracy: 0.08732
+[2018-08-30 05:05:56,342] INFO:__main__:==> Epoch 1, Dev 	Accuracy: 0.088
+[2018-08-30 05:05:56,342] INFO:__main__:==> Epoch 1, Test 	Accuracy: 0.08685
+[2018-08-30 05:29:16,117] INFO:__main__:==> Epoch 2, Train 	Loss: 0.029947797154188157	Accuracy: 0.08512
+[2018-08-30 05:29:16,118] INFO:__main__:==> Epoch 2, Dev 	Accuracy: 0.085
+[2018-08-30 05:29:16,118] INFO:__main__:==> Epoch 2, Test 	Accuracy: 0.0844
+[2018-08-30 05:53:54,151] INFO:__main__:==> Epoch 3, Train 	Loss: 0.028857439295053484	Accuracy: 0.089
+[2018-08-30 05:53:54,152] INFO:__main__:==> Epoch 3, Dev 	Accuracy: 0.0878
+[2018-08-30 05:53:54,153] INFO:__main__:==> Epoch 3, Test 	Accuracy: 0.08775
+[2018-08-30 06:16:59,456] INFO:__main__:==> Epoch 4, Train 	Loss: 0.02624321582198143	Accuracy: 0.09144
+[2018-08-30 06:16:59,457] INFO:__main__:==> Epoch 4, Dev 	Accuracy: 0.0898
+[2018-08-30 06:16:59,457] INFO:__main__:==> Epoch 4, Test 	Accuracy: 0.09
